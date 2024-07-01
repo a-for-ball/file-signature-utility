@@ -1,6 +1,7 @@
 # File Signature Utility
 ## Simple Description
-This is a simple utility to check for the type of file based on it's hex signature. Based in the file signatures available at [Gary Kessler's website](https://www.garykessler.net/library/file_sigs.html)
+This is a simple utility to check for the type of file based on it's hex signature. Based on the file signatures available at [Gary Kessler's website](https://www.garykessler.net/library/file_sigs.html).
+It is a useful tool in digital forensics to check for what type of file is present if no apparent extension is visible.
 ## Usage
 Clone the github repository:
 ```
